@@ -1,0 +1,28 @@
+baseURL = 'https://verdant.ee/'
+languageCode = 'en-us'
+title = "Verdant's Homepage"
+
+[params]
+  [params.nav]
+    [[params.nav.top]]
+      name = "Home"
+      url = "/"
+    [[params.nav.top]]
+      name = "Blog"
+      url = "https://www.glowisle.me/"
+
+    [[params.nav.top]]
+      name = "Email"
+      url = "mailto:i@glowisle.me"
+
+    [[params.nav.top]]
+      name = "Fediverse"
+      url = "https://akk.glowisle.me/verdant"
+
+    [[params.nav.bottom]]
+      name = "Philosophy"
+      url = "/philosophy"
+
+    [[params.nav.bottom]]
+      name = "Uses"
+      url = "/uses"

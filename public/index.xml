@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Verdant's Homepage</title><link>http://localhost:1313/</link><description>Recent content on Verdant's Homepage</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 17:15:35 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Philosophy</title><link>http://localhost:1313/philosophy/</link><pubDate>Fri, 10 Apr 2026 17:15:35 +0800</pubDate><guid>http://localhost:1313/philosophy/</guid><description>&lt;h2 id="what-i-dislike"&gt;What I dislike&lt;/h2&gt;
+&lt;h3 id="c"&gt;C++&lt;/h3&gt;
+&lt;p&gt;C++ is a TERRIBLE language which has 10000 different ways to do something that should be easy, simple and elegant, while C has only one way. Everything is convoluted and complicated.&lt;/p&gt;
+&lt;h3 id="python"&gt;Python&lt;/h3&gt;
+&lt;p&gt;Python like C++, the same ugly language. The scope even depends on indentation. Doing everything is so easy that you can&amp;rsquo;t feel the joy of coding.&lt;/p&gt;
+&lt;h3 id="electron-applications"&gt;Electron applications&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s so heavy. It could have just run in the browser, but instead I have to install an entire extra browser just to run a single program. As the numbers of Electron apps increases, the &lt;em&gt;proprietary&lt;/em&gt; browser on my computer also grows. Why is my storage space being used to install browsers? And it&amp;rsquo;s so heavy that it doesn&amp;rsquo;t run well on my ThinkPad X220.&lt;/p&gt;</description></item><item><title>Uses</title><link>http://localhost:1313/uses/</link><pubDate>Fri, 10 Apr 2026 17:03:52 +0800</pubDate><guid>http://localhost:1313/uses/</guid><description>&lt;p&gt;For more details, see &lt;a href="https://uses.tech/"&gt;uses&lt;/a&gt;, a list of /uses pages detailing developer setups, gear, software and configs.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://images.glowisle.me/IMG_20260322_015438.jpg" alt="A fervent fastfetch enthusiast, taken on 2026-04-19"&gt;&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href="https://www.glowisle.me/posts/how-i-do-my-computing"&gt;this page&lt;/a&gt; to see how I use electronic devices.&lt;/p&gt;
+&lt;h2 id="hardware"&gt;Hardware&lt;/h2&gt;
+&lt;h3 id="desktop"&gt;Desktop&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Intel(R) Core(TM) i5-10600KF (12) @ 4.80 GHz&lt;/li&gt;
+&lt;li&gt;GPU: NVIDIA GeForce RTX2060&lt;/li&gt;
+&lt;li&gt;Memory: 16GB&lt;/li&gt;
+&lt;li&gt;Disk: 1TB + 120GB&lt;/li&gt;
+&lt;li&gt;OS: Debian GNU/Linux 12 &amp;amp; Windows 11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="thinkpad-x220"&gt;ThinkPad X220&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Intel i5 2450M&lt;/li&gt;
+&lt;li&gt;Memory: 8GB&lt;/li&gt;
+&lt;li&gt;Disk: 120GB&lt;/li&gt;
+&lt;li&gt;OS: Arch Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="phone-and-tablet"&gt;Phone and Tablet&lt;/h3&gt;
+&lt;p&gt;I use an iQOO Neo7 SE that costs less than 1,000 RMB. On my phone, I basically only need to send and receive messages, make and receive calls, and use navigation. So buying this device was probably a loss. If WeChat were no longer used across China, I might be able to cut a few hundred RMB more and buy a second-hand device from seven or eight years ago.&lt;/p&gt;</description></item></channel></rss>

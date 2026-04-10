@@ -1,0 +1,15 @@
+{{ $topLinks := slice }}
+{{ $bottomLinks := slice}}
+
+<nav>
+  {{ range .Site.Params.nav.top }}
+    {{ $topLinks = $topLinks | append (printf `<a href="%s">%s</a>` .url .name) }}
+  {{ end }}
+  {{ delimit $topLinks " | " | safeHTML }}
+<hr>
+
+  {{ range .Site.Params.nav.bottom }}
+    {{ $bottomLinks = $bottomLinks | append (printf `<a href="%s">%s</a>` .url .name) }}
+  {{ end }}
+  {{ delimit $bottomLinks " | " | safeHTML }}
+</nav>

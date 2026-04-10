@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    {{- partial "header.html" . -}}
+    
+    <main class="content">
+        <article>
+            <h1>{{ .Title }}</h1>
+            {{ if .Date }}
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ end }}
+            <div>
+                {{ .Content }}
+            </div>
+        </article>
+    </main>
+</body>
+
+{{- partial "footer.html" . -}}
+
+</html>
