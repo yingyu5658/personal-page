@@ -12,18 +12,24 @@ title = "Verdant's Homepage"
       url = "https://www.glowisle.me/"
 
     [[params.nav.top]]
+      name = "Fediverse"
+      url = "https://akk.glowisle.me/verdant/"
+
+    [[params.nav.top]]
+      name = "Github"
+      url = "https://github.com/yingyu5658/"
+
+    [[params.nav.top]]
       name = "Email"
       url = "mailto:i@glowisle.me"
 
     [[params.nav.top]]
-      name = "Fediverse"
-      url = "https://akk.glowisle.me/verdant"
-
-    [[params.nav.bottom]]
-      name = "Philosophy"
-      url = "/philosophy"
-
-    [[params.nav.bottom]]
       name = "Uses"
-      url = "/uses"
+      url = "/uses/"
+
+
+
+    # [[params.nav.bottom]]
+    #   name = "Philosophy"
+    #   url = "/philosophy"
 
