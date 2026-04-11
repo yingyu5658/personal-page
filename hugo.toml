@@ -9,7 +9,7 @@ title = "Verdant's Homepage"
       url = "/"
     [[params.nav.top]]
       name = "Blog"
-      url = "https://www.glowisle.me/"
+      url = "https://blog.verdant.ee/"
 
     [[params.nav.top]]
       name = "Fediverse"
