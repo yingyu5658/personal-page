@@ -11,3 +11,7 @@ To find out more about me, visit my blog and Fediverse instance. I can hardly de
 ---
 
 {{< elsewhere >}}
+
+---
+
+My GPG Finger is `8E94 F827 9BB9 2352 E8BE F967 3D5D 7363 DF60 BE17`, you can download my public key at [here](/pub.asc). Encrypted emails are welcome.

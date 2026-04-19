@@ -40,3 +40,4 @@ Around the time of the pandemic, I needed to attend online classes, so I natural
 - Input method: Fcitx5 + Xiaohe Shuangpin
 - Terminal emulator: st & kitty
 - Music streaming: Spotify
+- Fediverse instance: Akkoma
