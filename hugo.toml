@@ -2,30 +2,35 @@ baseURL = 'https://verdant.ee/'
 languageCode = 'en-us'
 title = "Verdant's Homepage"
 
-[params]
-  [params.nav]
-    [[params.nav.top]]
-      name = "Home"
-      url = "/"
-    [[params.nav.top]]
-      name = "Blog"
-      url = "https://blog.verdant.ee/"
+[markup.goldmark.renderer]
+unsafe = true
 
-    [[params.nav.top]]
-      name = "Fediverse"
-      url = "https://akk.glowisle.me/verdant/"
 
-    [[params.nav.top]]
-      name = "Github"
-      url = "https://github.com/yingyu5658/"
 
-    [[params.nav.top]]
-      name = "Email"
-      url = "mailto:i@glowisle.me"
+# [params]
+#   [params.nav]
+#     [[params.nav.top]]
+#       name = "Home"
+#       url = "/"
+#     [[params.nav.top]]
+#       name = "Blog"
+#       url = "https://blog.verdant.ee/"
 
-    [[params.nav.top]]
-      name = "Uses"
-      url = "/uses/"
+#     [[params.nav.top]]
+#       name = "Fediverse"
+#       url = "https://akk.glowisle.me/verdant/"
+
+#     [[params.nav.top]]
+#       name = "Github"
+#       url = "https://github.com/yingyu5658/"
+
+#     [[params.nav.top]]
+#       name = "Email"
+#       url = "mailto:i@glowisle.me"
+
+#     [[params.nav.top]]
+#       name = "Uses"
+#       url = "/uses/"
 
 
 

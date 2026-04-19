@@ -24,3 +24,7 @@ The physical contact from an acquaintance always make me feel violated. We are n
 ### Stereotype
 
 About region: "people who grow up in Tianjin, China can all perform crosstalk". About gender: "Men must be masculine and women must be feminine".
+
+## About AI (LLM)
+
+I oppose the use of AI-generated articles entirely, and call it the cat of creation and sign yourself. But I support that use AI to find inspiration, consult information and correct errors in the article. I refuse reading AI-generated articles.

@@ -1,20 +1,66 @@
 :root {
-    --body-max-width: 730px;
+    --content-max-width: 660px;
     --font-color: white;
-    --bg: #f8f7f2;
+    --bg: white;
     --text: #222;
 }
 
 body {
+	padding-left: 13px;
+	padding-right: 13px;
+    display: block;
     background-color: var(--bg);
-    max-width: var(--body-max-width);
+    max-width: var(--content-max-width);
+    height: 100%;
     color: var(--text);
     line-height: 1.6;
     margin: auto;
+    font-family: Noto Serif;
 }
 
 img {
     width: 100%;
+}
+
+a {
+    color: #04b;
+    text-decoration: none;
+}
+
+a:active,
+a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.elsewhere {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0;
+    margin: 20px 0;
+    align-items: stretch;
+}
+
+.elsewhere .left {
+    border-right: 1px solid #999999;
+    padding-right: 20px;
+}
+
+.elsewhere .right {
+    padding-left: 20px;
+}
+
+.elsewhere .left h2,
+.elsewhere .right h2 {
+    margin-top: 0;
+}
+
+.elsewhere ul {
+    padding-left: 1.2rem;
+}
+
+hr {
+    border: 1px solid #999999;
 }
 
 @media screen and (max-width: 730px) {
